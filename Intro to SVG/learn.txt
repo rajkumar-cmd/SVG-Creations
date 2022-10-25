@@ -1,0 +1,7 @@
+V. Imp
+1. We learned about view port and view box
+
+2. We learned how to get started with SVG image.
+
+
+3. Site for free SVG image is "https://freeicons.io/"

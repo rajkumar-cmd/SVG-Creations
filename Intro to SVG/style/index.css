@@ -1,0 +1,10 @@
+.container{
+    border: 1px solid gray;
+    width: 500px;
+    height: 500px;
+    margin-left: 20px;
+}
+.container>svg{
+    width: 100%;
+    height: 100%;
+}
